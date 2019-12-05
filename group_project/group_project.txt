@@ -1,0 +1,16 @@
+
+
+
+[TEXT DESCRIPTION]
+Natalie and I plan to develop a web application that shows review of trails - and allow the user to add trails they would like to hike to their "list'.  The web application will require users to register and also sign in upon enterint the application.
+
+
+[ROLES]
+-Natalie's primary role will be to work on the front-end.
+-Curtis's primary role will be to work on the back-end.
+
+
+[GITHUB]
+Here is the link:
+
+CodingDojo-Projects-Algorithms-1119/curt-natalie-hikingtrails

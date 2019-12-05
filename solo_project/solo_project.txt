@@ -1,0 +1,5 @@
+I plan to complete the bright ideas wire frame project provided by coding dojo team for my solo project.
+
+my github repo is:
+
+CodingDojo-Projects-Algorithms-1119/CurtM_Bright_Ideas
